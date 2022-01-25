@@ -144,6 +144,8 @@ h1{
     h1{
         display: none;
     }
-
+.calculator span:active{
+        filter: none;
+    }
 
 }
